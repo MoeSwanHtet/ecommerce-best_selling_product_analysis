@@ -11,7 +11,10 @@ The marketing team wants to launch a "Best Sellers of 2025" campaign. They need 
 ### Key Skills Demonstrated
 * **Data Warehouse:** Google BigQuery
 * **Data Transformation:** Multi-level CTE nesting, Advanced Analytical Window Functions, Data manipulation and aggregation, Data type filtering and formatting
-* **BI & Visualization:** Power BI Desktop
+* **Microsoft Excel** (Data Cleaning, Pivot Tables, Pivot Charts, Sorting)
+
+ ### 📊 Dashboard Visuals
+ <img width="1603" height="574" alt="image" src="https://github.com/user-attachments/assets/f1def08a-1aec-4874-a961-c90393fb8747" />
 
 ## 💻 How to Run the SQL Script
 The optimized database query code used to drive this entire report can be found below:
